@@ -1,0 +1,6 @@
+E:\devika\C# assignment\Ass1\bin\Debug\Ass1.exe.config
+E:\devika\C# assignment\Ass1\bin\Debug\Ass1.exe
+E:\devika\C# assignment\Ass1\bin\Debug\Ass1.pdb
+E:\devika\C# assignment\Ass1\obj\Debug\Ass1.csprojAssemblyReference.cache
+E:\devika\C# assignment\Ass1\obj\Debug\Ass1.exe
+E:\devika\C# assignment\Ass1\obj\Debug\Ass1.pdb
